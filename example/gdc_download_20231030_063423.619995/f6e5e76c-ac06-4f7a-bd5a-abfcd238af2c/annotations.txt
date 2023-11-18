@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+658eed34-9d3f-5394-adfd-4a432784a44a	12060	case	49587564-e30f-4f1c-b7b3-fc0989bb1a0a	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy prostate cancer treated with chemotherapy and radiation.
+7b48c30c-314e-50dc-b9bb-9263390db764	11700	case	49587564-e30f-4f1c-b7b3-fc0989bb1a0a	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy prostate cancer treated with chemotherapy and radiation.

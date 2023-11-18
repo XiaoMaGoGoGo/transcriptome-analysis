@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+cb93ca46-9085-583c-821c-457f6300b8ec	16129	case	b75eb694-8e9d-4dbb-b536-7d278c728cbb	Synchronous malignancy	Notification	2013-05-17T00:00:00	Approved	Patient had a synchronous malignant neoplasm of the colon. No systemic radation or chemotherapy.
