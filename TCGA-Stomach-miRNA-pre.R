@@ -3,7 +3,7 @@
 library("stringr")
 library("rjson")
 
-setwd('D:/Bioinfo/Transcriptome analysis/TCGA-Stomach/')
+setwd('example/')
 
 # miRNA表达矩阵
 
