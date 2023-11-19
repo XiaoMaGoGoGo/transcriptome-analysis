@@ -1,0 +1,428 @@
+"","age_at_index","days_to_death","gender","race","vital_status","days_to_last_follow_up","tumor_stage","days","time","event","age_group"
+"TCGA-D7-A6ET",76,"'--","male","white","Alive","804","'--",804,26.8,0,NA
+"TCGA-VQ-AA6G",68,"792","male","white","Dead","'--","'--",792,26.4,1,NA
+"TCGA-VQ-A91V",58,"'--","male","not reported","Alive","1297","'--",1297,43.23,0,NA
+"TCGA-VQ-A91A",67,"'--","male","white","Alive","1200","'--",1200,40,0,NA
+"TCGA-VQ-A8PF",76,"76","male","not reported","Dead","'--","'--",76,2.53,1,NA
+"TCGA-D7-A6EY",72,"348","female","white","Dead","'--","'--",348,11.6,1,NA
+"TCGA-CG-4440",68,"122","female","not reported","Dead","'--","'--",122,4.07,1,NA
+"TCGA-VQ-A8E0",68,"562","male","black or african american","Dead","'--","'--",562,18.73,1,NA
+"TCGA-BR-A4PE",68,"'--","female","white","Alive","621","'--",621,20.7,0,NA
+"TCGA-FP-A4BE",55,"'--","male","black or african american","Alive","337","'--",337,11.23,0,NA
+"TCGA-BR-A4J9",55,"'--","male","white","Alive","14","'--",14,0.47,0,NA
+"TCGA-BR-4201",66,"940","female","white","Dead","0","'--",940,31.33,1,NA
+"TCGA-BR-4187",56,"141","male","white","Dead","0","'--",141,4.7,1,NA
+"TCGA-BR-A4J6",69,"'--","female","white","Alive","20","'--",20,0.67,0,NA
+"TCGA-BR-4188",53,"226","female","white","Dead","0","'--",226,7.53,1,NA
+"TCGA-D7-8575",75,"554","male","white","Dead","7","'--",554,18.47,1,NA
+"TCGA-CD-8531",66,"'--","female","asian","Alive","383","'--",383,12.77,0,NA
+"TCGA-EQ-8122",71,"243","female","white","Dead","237","'--",243,8.1,1,NA
+"TCGA-BR-7197",69,"'--","male","white","Alive","280","'--",280,9.33,0,NA
+"TCGA-CG-5723",83,"'--","male","not reported","Alive","2496","'--",2496,83.2,0,NA
+"TCGA-BR-6453",54,"'--","male","white","Alive","485","'--",485,16.17,0,NA
+"TCGA-CD-A4MI",62,"358","male","asian","Dead","3","'--",358,11.93,1,NA
+"TCGA-BR-4267",51,"188","male","white","Dead","0","'--",188,6.27,1,NA
+"TCGA-VQ-A927",81,"200","male","white","Dead","'--","'--",200,6.67,1,NA
+"TCGA-BR-4370",74,"'--","female","white","Alive","0","'--",0,0,0,NA
+"TCGA-CD-A4MH",86,"'--","female","asian","Alive","371","'--",371,12.37,0,NA
+"TCGA-D7-A6EZ",66,"618","male","white","Dead","618","'--",618,20.6,1,NA
+"TCGA-CD-A4MG",76,"200","male","asian","Dead","2","'--",200,6.67,1,NA
+"TCGA-D7-A6F2",62,"'--","male","white","Alive","476","'--",476,15.87,0,NA
+"TCGA-BR-A4QI",70,"652","female","white","Dead","415","'--",652,21.73,1,NA
+"TCGA-BR-4257",79,"294","female","white","Dead","0","'--",294,9.8,1,NA
+"TCGA-D7-5578",80,"'--","male","white","Alive","385","'--",385,12.83,0,NA
+"TCGA-BR-7723",59,"874","male","white","Dead","564","'--",874,29.13,1,NA
+"TCGA-CD-5802",58,"'--","male","asian","Alive","406","'--",406,13.53,0,NA
+"TCGA-BR-6455",59,"422","male","white","Dead","399","'--",422,14.07,1,NA
+"TCGA-BR-A4QM",65,"'--","male","white","Alive","156","'--",156,5.2,0,NA
+"TCGA-BR-8361",71,"'--","female","white","Alive","946","'--",946,31.53,0,NA
+"TCGA-CD-5804",90,"'--","male","asian","Alive","0","'--",0,0,0,NA
+"TCGA-BR-8078",70,"'--","female","white","Alive","900","'--",900,30,0,NA
+"TCGA-FP-8099",79,"'--","male","white","Alive","519","'--",519,17.3,0,NA
+"TCGA-BR-7957",50,"276","female","white","Dead","21","'--",276,9.2,1,NA
+"TCGA-BR-4368",78,"'--","female","white","Alive","0","'--",0,0,0,NA
+"TCGA-CG-4477",58,"'--","female","not reported","Alive","942","'--",942,31.4,0,NA
+"TCGA-IN-A7NT",73,"'--","female","white","Alive","323","'--",323,10.77,0,NA
+"TCGA-B7-A5TI",52,"'--","male","white","Alive","595","'--",595,19.83,0,NA
+"TCGA-R5-A7ZR",70,"185","female","black or african american","Dead","'--","'--",185,6.17,1,NA
+"TCGA-BR-A4QL",75,"491","female","white","Dead","352","'--",491,16.37,1,NA
+"TCGA-RD-A8N6",78,"272","female","white","Dead","'--","'--",272,9.07,1,NA
+"TCGA-BR-6452",78,"'--","female","white","Alive","1055","'--",1055,35.17,0,NA
+"TCGA-IN-A7NR",64,"'--","female","white","Alive","198","'--",198,6.6,0,NA
+"TCGA-VQ-A91X",74,"289","male","white","Dead","'--","'--",289,9.63,1,NA
+"TCGA-VQ-AA6F",57,"'--","male","white","Alive","1646","'--",1646,54.87,0,NA
+"TCGA-VQ-A8E3",79,"661","male","white","Dead","'--","'--",661,22.03,1,NA
+"TCGA-HU-A4HB",68,"477","male","asian","Dead","268","'--",477,15.9,1,NA
+"TCGA-BR-8370",64,"'--","male","white","Alive","101","'--",101,3.37,0,NA
+"TCGA-D7-8572",57,"'--","male","white","Alive","511","'--",511,17.03,0,NA
+"TCGA-CD-8527",72,"218","female","asian","Dead","2","'--",218,7.27,1,NA
+"TCGA-HF-7132",NA,"'--","male","not reported","Alive","2351","'--",2351,78.37,0,NA
+"TCGA-VQ-A94P",57,"81","male","white","Dead","'--","'--",81,2.7,1,NA
+"TCGA-BR-8677",74,"'--","female","white","Alive","813","'--",813,27.1,0,NA
+"TCGA-BR-7716",62,"'--","female","white","Alive","1210","'--",1210,40.33,0,NA
+"TCGA-BR-8284",72,"245","female","white","Dead","22","'--",245,8.17,1,NA
+"TCGA-CG-4441",83,"426","male","not reported","Dead","'--","'--",426,14.2,1,NA
+"TCGA-MX-A5UG",78,"113","male","asian","Dead","'--","'--",113,3.77,1,NA
+"TCGA-CD-5798",82,"'--","male","asian","Alive","408","'--",408,13.6,0,NA
+"TCGA-D7-A4Z0",60,"'--","female","white","Alive","449","'--",449,14.97,0,NA
+"TCGA-BR-8373",65,"'--","female","white","Alive","450","'--",450,15,0,NA
+"TCGA-CD-8525",82,"'--","female","asian","Alive","383","'--",383,12.77,0,NA
+"TCGA-CG-5717",58,"212","male","not reported","Dead","'--","'--",212,7.07,1,NA
+"TCGA-VQ-A8E2",57,"'--","male","asian","Alive","1319","'--",1319,43.97,0,NA
+"TCGA-BR-8591",79,"'--","male","white","Alive","856","'--",856,28.53,0,NA
+"TCGA-CG-5719",54,"'--","female","not reported","Alive","31","'--",31,1.03,0,NA
+"TCGA-VQ-AA6J",75,"'--","male","black or african american","Alive","838","'--",838,27.93,0,NA
+"TCGA-HU-A4G8",71,"'--","female","asian","Alive","690","'--",690,23,0,NA
+"TCGA-BR-8589",56,"'--","male","white","Alive","825","'--",825,27.5,0,NA
+"TCGA-BR-7196",64,"'--","male","white","Alive","666","'--",666,22.2,0,NA
+"TCGA-BR-8363",73,"8","female","white","Dead","'--","'--",8,0.27,1,NA
+"TCGA-BR-8058",53,"'--","female","white","Alive","1133","'--",1133,37.77,0,NA
+"TCGA-VQ-A8E7",59,"'--","male","white","Alive","1138","'--",1138,37.93,0,NA
+"TCGA-HU-8245",72,"'--","male","asian","Alive","552","'--",552,18.4,0,NA
+"TCGA-IN-AB1V",63,"'--","male","white","Alive","479","'--",479,15.97,0,NA
+"TCGA-CG-4460",66,"669","female","not reported","Dead","'--","'--",669,22.3,1,NA
+"TCGA-BR-A4CS",77,"45","male","white","Dead","28","'--",45,1.5,1,NA
+"TCGA-HU-A4G6",74,"'--","male","asian","Alive","738","'--",738,24.6,0,NA
+"TCGA-IN-7808",59,"105","male","white","Dead","'--","'--",105,3.5,1,NA
+"TCGA-CG-4305",69,"'--","male","not reported","Alive","485","'--",485,16.17,0,NA
+"TCGA-D7-8574",72,"'--","male","white","Alive","523","'--",523,17.43,0,NA
+"TCGA-CD-A489",58,"344","male","asian","Dead","4","'--",344,11.47,1,NA
+"TCGA-VQ-A8DT",43,"'--","male","not reported","Alive","1484","'--",1484,49.47,0,NA
+"TCGA-FP-A8CX",60,"'--","male","white","Alive","7","'--",7,0.23,0,NA
+"TCGA-HU-A4H0",72,"'--","male","asian","Alive","64","'--",64,2.13,0,NA
+"TCGA-BR-6563",60,"'--","male","white","Alive","1190","'--",1190,39.67,0,NA
+"TCGA-VQ-A8PM",56,"57","male","white","Dead","'--","'--",57,1.9,1,NA
+"TCGA-BR-A44U",70,"422","male","white","Dead","35","'--",422,14.07,1,NA
+"TCGA-IN-8663",68,"103","male","white","Dead","'--","'--",103,3.43,1,NA
+"TCGA-BR-8285",57,"17","female","white","Dead","8","'--",17,0.57,1,NA
+"TCGA-BR-8676",59,"'--","male","white","Alive","229","'--",229,7.63,0,NA
+"TCGA-CG-4475",76,"'--","male","not reported","Alive","699","'--",699,23.3,0,NA
+"TCGA-BR-8296",58,"474","female","white","Dead","45","'--",474,15.8,1,NA
+"TCGA-BR-8059",72,"439","male","white","Dead","25","'--",439,14.63,1,NA
+"TCGA-IN-A7NU",69,"'--","male","white","Alive","356","'--",356,11.87,0,NA
+"TCGA-HU-8243",66,"180","male","asian","Dead","'--","'--",180,6,1,NA
+"TCGA-BR-8291",61,"607","male","white","Dead","496","'--",607,20.23,1,NA
+"TCGA-D7-A4YV",69,"180","female","white","Dead","180","'--",180,6,1,NA
+"TCGA-D7-6822",77,"'--","male","white","Alive","375","'--",375,12.5,0,NA
+"TCGA-BR-A4IY",58,"'--","male","asian","Alive","392","'--",392,13.07,0,NA
+"TCGA-D7-6519",64,"'--","female","white","Alive","625","'--",625,20.83,0,NA
+"TCGA-HU-A4GD",56,"'--","male","asian","Alive","692","'--",692,23.07,0,NA
+"TCGA-IN-A6RS",76,"'--","male","white","Alive","383","'--",383,12.77,0,NA
+"TCGA-BR-6710",41,"'--","male","white","Alive","273","'--",273,9.1,0,NA
+"TCGA-VQ-A94O",74,"640","male","black or african american","Dead","'--","'--",640,21.33,1,NA
+"TCGA-BR-8682",52,"'--","male","asian","Alive","991","'--",991,33.03,0,NA
+"TCGA-VQ-A8PJ",53,"82","male","not reported","Dead","'--","'--",82,2.73,1,NA
+"TCGA-D7-6520",53,"'--","male","white","Alive","573","'--",573,19.1,0,NA
+"TCGA-CD-A48C",79,"353","female","asian","Dead","4","'--",353,11.77,1,NA
+"TCGA-MX-A663",66,"300","male","white","Dead","131","'--",300,10,1,NA
+"TCGA-BR-6705",68,"779","female","white","Dead","421","'--",779,25.97,1,NA
+"TCGA-HU-8249",76,"'--","male","asian","Alive","881","'--",881,29.37,0,NA
+"TCGA-BR-4369",75,"'--","male","white","Alive","0","'--",0,0,0,NA
+"TCGA-VQ-AA68",52,"'--","female","white","Alive","1328","'--",1328,44.27,0,NA
+"TCGA-HU-A4GT",71,"'--","female","asian","Alive","198","'--",198,6.6,0,NA
+"TCGA-VQ-A8PO",74,"282","male","white","Dead","'--","'--",282,9.4,1,NA
+"TCGA-BR-8486",90,"'--","female","white","Alive","0","'--",0,0,0,NA
+"TCGA-BR-8369",76,"'--","female","white","Alive","427","'--",427,14.23,0,NA
+"TCGA-CG-4443",68,"'--","male","not reported","Alive","912","'--",912,30.4,0,NA
+"TCGA-BR-7703",81,"'--","male","white","Alive","1100","'--",1100,36.67,0,NA
+"TCGA-VQ-A8PD",69,"496","male","white","Dead","'--","'--",496,16.53,1,NA
+"TCGA-D7-6817",63,"'--","male","white","Alive","389","'--",389,12.97,0,NA
+"TCGA-BR-6457",69,"'--","male","white","Alive","416","'--",416,13.87,0,NA
+"TCGA-D7-6815",70,"'--","female","white","Alive","486","'--",486,16.2,0,NA
+"TCGA-FP-8209",49,"1811","male","white","Dead","'--","'--",1811,60.37,1,NA
+"TCGA-BR-7704",69,"'--","female","white","Alive","1072","'--",1072,35.73,0,NA
+"TCGA-D7-A4YX",63,"'--","male","white","Alive","1108","'--",1108,36.93,0,NA
+"TCGA-IN-A6RP",63,"'--","male","white","Alive","196","'--",196,6.53,0,NA
+"TCGA-BR-8362",65,"398","male","white","Dead","11","'--",398,13.27,1,NA
+"TCGA-VQ-A94U",70,"'--","male","white","Alive","819","'--",819,27.3,0,NA
+"TCGA-HU-A4H6",72,"'--","female","asian","Alive","644","'--",644,21.47,0,NA
+"TCGA-CG-5732",66,"2100","male","not reported","Dead","1674","'--",2100,70,1,NA
+"TCGA-BR-8367",55,"801","male","white","Dead","418","'--",801,26.7,1,NA
+"TCGA-RD-A8N9",63,"'--","female","asian","Alive","1083","'--",1083,36.1,0,NA
+"TCGA-SW-A7EA",61,"'--","female","white","Alive","579","'--",579,19.3,0,NA
+"TCGA-KB-A6F7",54,"'--","female","not reported","Alive","1935","'--",1935,64.5,0,NA
+"TCGA-D7-6528",70,"'--","female","white","Alive","463","'--",463,15.43,0,NA
+"TCGA-BR-4357",58,"'--","male","white","Alive","0","'--",0,0,0,NA
+"TCGA-B7-A5TJ",74,"'--","male","white","Alive","335","'--",335,11.17,0,NA
+"TCGA-FP-8211",62,"'--","male","white","Alive","413","'--",413,13.77,0,NA
+"TCGA-VQ-A94T",73,"342","male","not reported","Dead","'--","'--",342,11.4,1,NA
+"TCGA-CG-5734",68,"243","male","not reported","Dead","'--","'--",243,8.1,1,NA
+"TCGA-BR-8366",80,"'--","female","white","Alive","29","'--",29,0.97,0,NA
+"TCGA-R5-A805",71,"281","male","white","Dead","'--","'--",281,9.37,1,NA
+"TCGA-CG-4442",85,"'--","male","not reported","Alive","0","'--",0,0,0,NA
+"TCGA-IP-7968",74,"'--","male","white","Alive","77","'--",77,2.57,0,NA
+"TCGA-BR-A452",57,"229","male","asian","Dead","20","'--",229,7.63,1,NA
+"TCGA-CG-5730",80,"'--","female","not reported","Alive","122","'--",122,4.07,0,NA
+"TCGA-BR-7722",62,"466","male","white","Dead","5","'--",466,15.53,1,NA
+"TCGA-HU-8608",70,"'--","male","asian","Alive","641","'--",641,21.37,0,NA
+"TCGA-VQ-A8PC",65,"1407","male","white","Dead","'--","'--",1407,46.9,1,NA
+"TCGA-D7-8578",72,"'--","male","white","Alive","643","'--",643,21.43,0,NA
+"TCGA-RD-A8N0",53,"'--","female","white","Alive","1236","'--",1236,41.2,0,NA
+"TCGA-CD-A4MJ",60,"'--","male","asian","Alive","384","'--",384,12.8,0,NA
+"TCGA-BR-8286",49,"'--","male","white","Alive","895","'--",895,29.83,0,NA
+"TCGA-D7-8573",57,"'--","male","white","Alive","593","'--",593,19.77,0,NA
+"TCGA-HU-A4GX",70,"'--","female","asian","Alive","616","'--",616,20.53,0,NA
+"TCGA-B7-5816",51,"'--","female","white","Alive","812","'--",812,27.07,0,NA
+"TCGA-BR-8364",42,"'--","female","white","Alive","675","'--",675,22.5,0,NA
+"TCGA-BR-8484",61,"766","male","white","Dead","22","'--",766,25.53,1,NA
+"TCGA-HU-A4GY",76,"'--","female","asian","Alive","8","'--",8,0.27,0,NA
+"TCGA-VQ-AA6I",68,"491","male","white","Dead","'--","'--",491,16.37,1,NA
+"TCGA-VQ-A8P3",72,"'--","male","white","Alive","1132","'--",1132,37.73,0,NA
+"TCGA-MX-A5UJ",86,"'--","female","white","Alive","600","'--",600,20,0,NA
+"TCGA-HU-A4G3",54,"'--","male","asian","Alive","170","'--",170,5.67,0,NA
+"TCGA-RD-A8NB",80,"513","female","white","Dead","'--","'--",513,17.1,1,NA
+"TCGA-B7-A5TN",60,"'--","male","white","Alive","287","'--",287,9.57,0,NA
+"TCGA-CD-A48A",57,"'--","male","asian","Alive","378","'--",378,12.6,0,NA
+"TCGA-VQ-AA69",35,"'--","male","white","Alive","864","'--",864,28.8,0,NA
+"TCGA-BR-4256",80,"284","male","white","Dead","0","'--",284,9.47,1,NA
+"TCGA-CG-5721",58,"'--","male","not reported","Alive","183","'--",183,6.1,0,NA
+"TCGA-F1-6875",79,"2197","male","black or african american","Dead","'--","'--",2197,73.23,1,NA
+"TCGA-BR-8382",67,"762","female","white","Dead","482","'--",762,25.4,1,NA
+"TCGA-BR-4280",78,"201","female","white","Dead","0","'--",201,6.7,1,NA
+"TCGA-VQ-A91U",78,"52","male","asian","Dead","'--","'--",52,1.73,1,NA
+"TCGA-VQ-A8DZ",70,"396","male","black or african american","Dead","'--","'--",396,13.2,1,NA
+"TCGA-D7-A74B",52,"217","female","white","Dead","'--","'--",217,7.23,1,NA
+"TCGA-FP-A4BF",68,"168","male","white","Dead","47","'--",168,5.6,1,NA
+"TCGA-CG-5725",72,"457","male","not reported","Dead","'--","'--",457,15.23,1,NA
+"TCGA-BR-6709",57,"370","female","white","Dead","38","'--",370,12.33,1,NA
+"TCGA-BR-7958",60,"'--","male","white","Alive","899","'--",899,29.97,0,NA
+"TCGA-VQ-A8DU",63,"166","male","white","Dead","'--","'--",166,5.53,1,NA
+"TCGA-RD-A8N1",70,"'--","male","white","Alive","3519","'--",3519,117.3,0,NA
+"TCGA-CG-4306",90,"1","male","not reported","Dead","'--","'--",1,0.03,1,NA
+"TCGA-D7-5577",53,"782","female","white","Dead","376","'--",782,26.07,1,NA
+"TCGA-VQ-A91Y",67,"296","male","white","Dead","'--","'--",296,9.87,1,NA
+"TCGA-BR-6803",54,"'--","female","white","Alive","949","'--",949,31.63,0,NA
+"TCGA-BR-8679",63,"'--","female","white","Alive","0","'--",0,0,0,NA
+"TCGA-HU-A4H4",53,"'--","female","asian","Alive","725","'--",725,24.17,0,NA
+"TCGA-BR-7707",69,"'--","female","white","Alive","1090","'--",1090,36.33,0,NA
+"TCGA-HU-A4GQ",71,"3","male","asian","Dead","'--","'--",3,0.1,1,NA
+"TCGA-VQ-AA6A",56,"'--","male","white","Alive","1184","'--",1184,39.47,0,NA
+"TCGA-VQ-A94R",63,"1294","male","white","Dead","'--","'--",1294,43.13,1,NA
+"TCGA-VQ-A91Q",61,"633","male","not reported","Dead","'--","'--",633,21.1,1,NA
+"TCGA-VQ-A8P8",72,"'--","female","black or african american","Alive","942","'--",942,31.4,0,NA
+"TCGA-MX-A666",61,"'--","male","white","Alive","427","'--",427,14.23,0,NA
+"TCGA-BR-4255",76,"124","female","white","Dead","0","'--",124,4.13,1,NA
+"TCGA-HU-A4H2",58,"'--","female","asian","Alive","394","'--",394,13.13,0,NA
+"TCGA-BR-4183",55,"201","female","white","Dead","0","'--",201,6.7,1,NA
+"TCGA-HU-A4H5",71,"'--","male","asian","Alive","724","'--",724,24.13,0,NA
+"TCGA-BR-A4J2",70,"'--","male","asian","Alive","431","'--",431,14.37,0,NA
+"TCGA-R5-A7O7",51,"'--","male","white","Alive","1389","'--",1389,46.3,0,NA
+"TCGA-CD-8536",74,"'--","male","asian","Alive","378","'--",378,12.6,0,NA
+"TCGA-BR-4362",74,"'--","female","white","Alive","0","'--",0,0,0,NA
+"TCGA-BR-8678",76,"'--","male","white","Alive","754","'--",754,25.13,0,NA
+"TCGA-ZQ-A9CR",79,"24","female","white","Dead","'--","'--",24,0.8,1,NA
+"TCGA-B7-A5TK",51,"'--","male","white","Alive","288","'--",288,9.6,0,NA
+"TCGA-BR-6564",46,"794","female","white","Dead","25","'--",794,26.47,1,NA
+"TCGA-VQ-A925",66,"138","male","white","Dead","'--","'--",138,4.6,1,NA
+"TCGA-D7-8570",44,"'--","male","white","Alive","752","'--",752,25.07,0,NA
+"TCGA-BR-7901",74,"105","male","white","Dead","29","'--",105,3.5,1,NA
+"TCGA-BR-6707",75,"605","male","white","Dead","491","'--",605,20.17,1,NA
+"TCGA-HF-A5NB",75,"'--","female","not reported","Alive","928","'--",928,30.93,0,NA
+"TCGA-VQ-A91S",63,"'--","male","black or african american","Alive","1000","'--",1000,33.33,0,NA
+"TCGA-D7-A6EV",71,"'--","female","white","Alive","342","'--",342,11.4,0,NA
+"TCGA-CG-5728",88,"'--","female","not reported","Alive","579","'--",579,19.3,0,NA
+"TCGA-BR-A4CQ",58,"'--","male","white","Alive","1064","'--",1064,35.47,0,NA
+"TCGA-BR-A4CR",70,"'--","female","white","Alive","0","'--",0,0,0,NA
+"TCGA-BR-4292",73,"'--","female","white","Alive","0","'--",0,0,0,NA
+"TCGA-CD-8533",48,"'--","male","asian","Alive","468","'--",468,15.6,0,NA
+"TCGA-BR-8372",63,"'--","male","white","Alive","951","'--",951,31.7,0,NA
+"TCGA-RD-A8N2",59,"'--","female","white","Alive","3540","'--",3540,118,0,NA
+"TCGA-D7-A4YY",61,"'--","male","white","Alive","419","'--",419,13.97,0,NA
+"TCGA-HU-A4HD",73,"'--","male","asian","Alive","1016","'--",1016,33.87,0,NA
+"TCGA-D7-A4YT",56,"'--","male","white","Alive","434","'--",434,14.47,0,NA
+"TCGA-BR-8371",62,"359","male","white","Dead","11","'--",359,11.97,1,NA
+"TCGA-HF-7134",NA,"'--","male","not reported","Alive","1588","'--",1588,52.93,0,NA
+"TCGA-D7-6522",58,"'--","male","white","Alive","566","'--",566,18.87,0,NA
+"TCGA-BR-4253",80,"124","female","white","Dead","0","'--",124,4.13,1,NA
+"TCGA-BR-8686",69,"635","male","asian","Dead","477","'--",635,21.17,1,NA
+"TCGA-CD-A487",51,"'--","male","asian","Alive","374","'--",374,12.47,0,NA
+"TCGA-VQ-A928",49,"174","male","white","Dead","'--","'--",174,5.8,1,NA
+"TCGA-BR-6852",64,"'--","female","white","Alive","1367","'--",1367,45.57,0,NA
+"TCGA-VQ-A8PK",58,"543","male","white","Dead","'--","'--",543,18.1,1,NA
+"TCGA-CD-5813",60,"377","male","asian","Dead","12","'--",377,12.57,1,NA
+"TCGA-BR-A4J4",39,"'--","male","asian","Alive","16","'--",16,0.53,0,NA
+"TCGA-IN-A6RI",45,"'--","male","white","Alive","559","'--",559,18.63,0,NA
+"TCGA-EQ-A4SO",70,"'--","male","white","Alive","494","'--",494,16.47,0,NA
+"TCGA-VQ-A91W",30,"'--","male","white","Alive","1851","'--",1851,61.7,0,NA
+"TCGA-F1-A448",70,"'--","male","white","Alive","647","'--",647,21.57,0,NA
+"TCGA-HU-A4GU",73,"'--","male","asian","Alive","200","'--",200,6.67,0,NA
+"TCGA-D7-8576",54,"446","female","white","Dead","212","'--",446,14.87,1,NA
+"TCGA-BR-8060",75,"348","female","white","Dead","40","'--",348,11.6,1,NA
+"TCGA-VQ-A8PP",76,"712","male","not reported","Dead","'--","'--",712,23.73,1,NA
+"TCGA-HU-8602",58,"'--","female","asian","Alive","679","'--",679,22.63,0,NA
+"TCGA-FP-7829",69,"'--","male","white","Alive","594","'--",594,19.8,0,NA
+"TCGA-HU-8610",75,"'--","male","asian","Alive","23","'--",23,0.77,0,NA
+"TCGA-CD-8534",41,"'--","male","asian","Alive","367","'--",367,12.23,0,NA
+"TCGA-BR-7959",59,"'--","male","white","Alive","1010","'--",1010,33.67,0,NA
+"TCGA-BR-8487",64,"'--","female","white","Alive","34","'--",34,1.13,0,NA
+"TCGA-CG-4466",81,"'--","female","not reported","Alive","577","'--",577,19.23,0,NA
+"TCGA-VQ-A92D",67,"'--","male","white","Alive","2032","'--",2032,67.73,0,NA
+"TCGA-HU-A4GP",62,"'--","female","asian","Alive","273","'--",273,9.1,0,NA
+"TCGA-CG-4455",72,"'--","male","not reported","Alive","366","'--",366,12.2,0,NA
+"TCGA-BR-6802",65,"'--","male","white","Alive","940","'--",940,31.33,0,NA
+"TCGA-CG-5724",59,"366","male","not reported","Dead","'--","'--",366,12.2,1,NA
+"TCGA-BR-8077",58,"'--","female","white","Alive","21","'--",21,0.7,0,NA
+"TCGA-BR-A44T",53,"'--","female","white","Alive","1038","'--",1038,34.6,0,NA
+"TCGA-VQ-A922",70,"275","male","not reported","Dead","262","'--",275,9.17,1,NA
+"TCGA-SW-A7EB",45,"'--","male","white","Alive","176","'--",176,5.87,0,NA
+"TCGA-R5-A7ZF",65,"259","female","black or african american","Dead","'--","'--",259,8.63,1,NA
+"TCGA-CD-A486",68,"192","male","asian","Dead","104","'--",192,6.4,1,NA
+"TCGA-KB-A93J",78,"'--","male","white","Alive","1124","'--",1124,37.47,0,NA
+"TCGA-VQ-AA6K",59,"378","male","white","Dead","'--","'--",378,12.6,1,NA
+"TCGA-CD-8530",51,"'--","male","asian","Alive","377","'--",377,12.57,0,NA
+"TCGA-CD-8526",73,"'--","female","asian","Alive","381","'--",381,12.7,0,NA
+"TCGA-D7-5579",74,"'--","male","white","Alive","636","'--",636,21.2,0,NA
+"TCGA-CG-4474",67,"'--","female","not reported","Alive","0","'--",0,0,0,NA
+"TCGA-FP-7998",77,"'--","male","white","Alive","678","'--",678,22.6,0,NA
+"TCGA-D7-8579",66,"'--","female","white","Alive","636","'--",636,21.2,0,NA
+"TCGA-VQ-A91D",70,"356","male","white","Dead","'--","'--",356,11.87,1,NA
+"TCGA-BR-6801",70,"'--","male","white","Alive","1223","'--",1223,40.77,0,NA
+"TCGA-RD-A7BW",68,"156","female","white","Dead","'--","'--",156,5.2,1,NA
+"TCGA-D7-6518",75,"'--","male","white","Alive","582","'--",582,19.4,0,NA
+"TCGA-HU-A4GJ",60,"'--","female","asian","Alive","650","'--",650,21.67,0,NA
+"TCGA-FP-8631",68,"'--","male","white","Alive","17","'--",17,0.57,0,NA
+"TCGA-BR-8680",45,"'--","male","asian","Alive","972","'--",972,32.4,0,NA
+"TCGA-F1-A72C",68,"'--","male","asian","Alive","346","'--",346,11.53,0,NA
+"TCGA-VQ-A8P5",67,"235","male","white","Dead","'--","'--",235,7.83,1,NA
+"TCGA-FP-7916",77,"428","male","asian","Dead","92","'--",428,14.27,1,NA
+"TCGA-IN-A6RR",84,"205","male","white","Dead","'--","'--",205,6.83,1,NA
+"TCGA-CG-5733",83,"641","female","not reported","Dead","'--","'--",641,21.37,1,NA
+"TCGA-VQ-A8PQ",50,"476","female","white","Dead","'--","'--",476,15.87,1,NA
+"TCGA-BR-4366",87,"'--","male","white","Alive","0","'--",0,0,0,NA
+"TCGA-IN-AB1X",78,"'--","female","white","Alive","411","'--",411,13.7,0,NA
+"TCGA-CD-5803",78,"341","female","asian","Dead","2","'--",341,11.37,1,NA
+"TCGA-VQ-A91K",69,"'--","male","white","Alive","1862","'--",1862,62.07,0,NA
+"TCGA-D7-A748",41,"132","female","white","Dead","'--","'--",132,4.4,1,NA
+"TCGA-BR-7717",63,"552","male","white","Dead","21","'--",552,18.4,1,NA
+"TCGA-BR-6458",57,"588","female","white","Dead","213","'--",588,19.6,1,NA
+"TCGA-VQ-A8PB",65,"1043","female","white","Dead","1023","'--",1043,34.77,1,NA
+"TCGA-BR-8384",69,"'--","male","white","Alive","113","'--",113,3.77,0,NA
+"TCGA-D7-A6F0",79,"'--","female","white","Alive","678","'--",678,22.6,0,NA
+"TCGA-CG-4469",70,"215","male","not reported","Dead","'--","'--",215,7.17,1,NA
+"TCGA-D7-6525",58,"406","male","white","Dead","181","'--",406,13.53,1,NA
+"TCGA-CD-8532",52,"354","male","asian","Dead","3","'--",354,11.8,1,NA
+"TCGA-BR-8687",67,"250","female","white","Dead","19","'--",250,8.33,1,NA
+"TCGA-HU-A4GN",61,"'--","male","asian","Alive","912","'--",912,30.4,0,NA
+"TCGA-BR-6566",64,"'--","female","white","Alive","997","'--",997,33.23,0,NA
+"TCGA-CG-4476",69,"'--","male","not reported","Alive","0","'--",0,0,0,NA
+"TCGA-HU-A4GH",75,"'--","male","asian","Alive","358","'--",358,11.93,0,NA
+"TCGA-IN-A6RJ",64,"'--","male","white","Alive","379","'--",379,12.63,0,NA
+"TCGA-BR-4363",60,"'--","female","white","Alive","0","'--",0,0,0,NA
+"TCGA-D7-A6EX",72,"'--","female","white","Alive","344","'--",344,11.47,0,NA
+"TCGA-IN-A6RL",84,"406","male","white","Dead","158","'--",406,13.53,1,NA
+"TCGA-BR-4361",66,"'--","female","white","Alive","0","'--",0,0,0,NA
+"TCGA-VQ-A8DV",48,"403","male","white","Dead","'--","'--",403,13.43,1,NA
+"TCGA-IN-7806",50,"'--","male","white","Alive","1106","'--",1106,36.87,0,NA
+"TCGA-VQ-A8PU",72,"832","female","white","Dead","820","'--",832,27.73,1,NA
+"TCGA-D7-A4YU",73,"'--","male","white","Alive","500","'--",500,16.67,0,NA
+"TCGA-R5-A7ZI",44,"'--","female","white","Alive","2267","'--",2267,75.57,0,NA
+"TCGA-CG-4444",76,"'--","male","not reported","Alive","1431","'--",1431,47.7,0,NA
+"TCGA-BR-A4J5",56,"'--","male","asian","Alive","862","'--",862,28.73,0,NA
+"TCGA-KB-A6F5",73,"'--","male","not reported","Alive","169","'--",169,5.63,0,NA
+"TCGA-BR-8485",68,"'--","female","white","Alive","280","'--",280,9.33,0,NA
+"TCGA-RD-A7BS",46,"336","male","white","Dead","'--","'--",336,11.2,1,NA
+"TCGA-CD-8535",59,"'--","male","asian","Alive","390","'--",390,13,0,NA
+"TCGA-BR-6706",63,"549","male","white","Dead","402","'--",549,18.3,1,NA
+"TCGA-BR-8368",84,"'--","female","white","Alive","131","'--",131,4.37,0,NA
+"TCGA-RD-A8MW",72,"1153","male","white","Dead","1153","'--",1153,38.43,1,NA
+"TCGA-BR-A4PD",72,"'--","female","white","Alive","628","'--",628,20.93,0,NA
+"TCGA-CG-5718",78,"1095","female","not reported","Dead","31","'--",1095,36.5,1,NA
+"TCGA-VQ-A8P2",68,"'--","male","white","Alive","1160","'--",1160,38.67,0,NA
+"TCGA-HU-8244",77,"'--","female","asian","Alive","742","'--",742,24.73,0,NA
+"TCGA-RD-A8N4",58,"'--","female","white","Alive","2171","'--",2171,72.37,0,NA
+"TCGA-BR-6456",74,"526","female","white","Dead","308","'--",526,17.53,1,NA
+"TCGA-RD-A7C1",82,"507","male","white","Dead","'--","'--",507,16.9,1,NA
+"TCGA-BR-A4IV",47,"869","male","asian","Dead","411","'--",869,28.97,1,NA
+"TCGA-RD-A8MV",56,"'--","male","white","Alive","3720","'--",3720,124,0,NA
+"TCGA-VQ-A91N",59,"570","female","not reported","Dead","'--","'--",570,19,1,NA
+"TCGA-CG-4300",79,"609","male","not reported","Dead","'--","'--",609,20.3,1,NA
+"TCGA-BR-8295",60,"67","female","white","Dead","47","'--",67,2.23,1,NA
+"TCGA-BR-8297",58,"'--","male","white","Alive","225","'--",225,7.5,0,NA
+"TCGA-D7-6820",64,"'--","male","white","Alive","344","'--",344,11.47,0,NA
+"TCGA-CG-4436",57,"'--","male","not reported","Alive","243","'--",243,8.1,0,NA
+"TCGA-VQ-AA6D",52,"'--","female","not reported","Alive","521","'--",521,17.37,0,NA
+"TCGA-CD-5801",69,"401","male","asian","Dead","15","'--",401,13.37,1,NA
+"TCGA-BR-4184",70,"212","male","white","Dead","0","'--",212,7.07,1,NA
+"TCGA-VQ-A924",69,"1686","male","not reported","Dead","'--","'--",1686,56.2,1,NA
+"TCGA-BR-8683",75,"300","male","asian","Dead","18","'--",300,10,1,NA
+"TCGA-BR-8592",63,"191","female","white","Dead","6","'--",191,6.37,1,NA
+"TCGA-BR-4294",65,"'--","male","white","Alive","0","'--",0,0,0,NA
+"TCGA-BR-7715",65,"'--","male","white","Alive","1023","'--",1023,34.1,0,NA
+"TCGA-BR-A4J8",71,"'--","female","white","Alive","411","'--",411,13.7,0,NA
+"TCGA-VQ-A91E",67,"'--","female","white","Alive","664","'--",664,22.13,0,NA
+"TCGA-3M-AB46",70,"'--","male","white","Alive","1765","'--",1765,58.83,0,NA
+"TCGA-F1-6874",79,"'--","male","white","Alive","440","'--",440,14.67,0,NA
+"TCGA-CG-4472",49,"'--","male","not reported","Alive","365","'--",365,12.17,0,NA
+"TCGA-BR-A4IU",34,"'--","female","asian","Alive","838","'--",838,27.93,0,NA
+"TCGA-BR-A4J7",49,"'--","male","asian","Alive","989","'--",989,32.97,0,NA
+"TCGA-CG-4438",56,"'--","male","not reported","Alive","1645","'--",1645,54.83,0,NA
+"TCGA-IN-8462",80,"'--","male","white","Alive","572","'--",572,19.07,0,NA
+"TCGA-D7-A74A",61,"'--","female","white","Alive","607","'--",607,20.23,0,NA
+"TCGA-VQ-A923",90,"0","male","white","Dead","'--","'--",0,0,1,NA
+"TCGA-BR-A4J1",63,"22","male","asian","Dead","'--","'--",22,0.73,1,NA
+"TCGA-BR-4367",78,"'--","male","white","Alive","0","'--",0,0,0,NA
+"TCGA-BR-6565",67,"279","male","white","Dead","19","'--",279,9.3,1,NA
+"TCGA-CG-4437",83,"'--","male","not reported","Alive","245","'--",245,8.17,0,NA
+"TCGA-BR-8289",57,"81","male","white","Dead","8","'--",81,2.7,1,NA
+"TCGA-BR-8080",72,"292","female","white","Dead","15","'--",292,9.73,1,NA
+"TCGA-CD-8528",43,"'--","female","asian","Alive","375","'--",375,12.5,0,NA
+"TCGA-BR-A453",51,"185","male","asian","Dead","92","'--",185,6.17,1,NA
+"TCGA-D7-6526",67,"'--","female","white","Alive","523","'--",523,17.43,0,NA
+"TCGA-VQ-A91Z",67,"'--","female","white","Alive","1690","'--",1690,56.33,0,NA
+"TCGA-BR-4191",72,"558","male","white","Dead","0","'--",558,18.6,1,NA
+"TCGA-VQ-AA6B",48,"'--","male","white","Alive","1002","'--",1002,33.4,0,NA
+"TCGA-BR-8381",51,"'--","male","white","Alive","224","'--",224,7.47,0,NA
+"TCGA-BR-A4IZ",45,"273","female","asian","Dead","24","'--",273,9.1,1,NA
+"TCGA-D7-6521",65,"'--","male","white","Alive","564","'--",564,18.8,0,NA
+"TCGA-VQ-A8DL",69,"28","female","white","Dead","'--","'--",28,0.93,1,NA
+"TCGA-BR-8365",70,"533","female","white","Dead","90","'--",533,17.77,1,NA
+"TCGA-CD-8529",65,"'--","male","asian","Alive","374","'--",374,12.47,0,NA
+"TCGA-VQ-A8PX",51,"'--","male","not reported","Alive","1964","'--",1964,65.47,0,NA
+"TCGA-R5-A804",54,"140","male","black or african american","Dead","'--","'--",140,4.67,1,NA
+"TCGA-CG-4465",69,"274","female","not reported","Dead","'--","'--",274,9.13,1,NA
+"TCGA-CG-4449",81,"'--","male","not reported","Alive","580","'--",580,19.33,0,NA
+"TCGA-FP-8210",48,"153","male","asian","Dead","'--","'--",153,5.1,1,NA
+"TCGA-VQ-AA64",68,"560","male","white","Dead","'--","'--",560,18.67,1,NA
+"TCGA-VQ-A8PH",62,"389","male","white","Dead","'--","'--",389,12.97,1,NA
+"TCGA-BR-4371",71,"'--","female","white","Alive","0","'--",0,0,0,NA
+"TCGA-HU-8604",82,"'--","female","asian","Alive","694","'--",694,23.13,0,NA
+"TCGA-HU-8238",56,"'--","male","asian","Alive","46","'--",46,1.53,0,NA
+"TCGA-HJ-7597",71,"805","female","white","Dead","'--","'--",805,26.83,1,NA
+"TCGA-FP-A9TM",77,"'--","male","white","Alive","189","'--",189,6.3,0,NA
+"TCGA-D7-6524",53,"'--","male","white","Alive","543","'--",543,18.1,0,NA
+"TCGA-RD-A8N5",78,"1747","male","white","Dead","'--","'--",1747,58.23,1,NA
+"TCGA-FP-7735",77,"106","male","black or african american","Dead","12","'--",106,3.53,1,NA
+"TCGA-VQ-A8PE",78,"675","male","white","Dead","422","'--",675,22.5,1,NA
+"TCGA-BR-8590",62,"284","male","white","Dead","65","'--",284,9.47,1,NA
+"TCGA-CG-4301",75,"'--","female","not reported","Alive","92","'--",92,3.07,0,NA
+"TCGA-BR-8483",59,"'--","male","white","Alive","164","'--",164,5.47,0,NA
+"TCGA-CG-4462",72,"0","female","not reported","Dead","'--","'--",0,0,1,NA
+"TCGA-D7-A747",57,"255","male","white","Dead","'--","'--",255,8.5,1,NA
+"TCGA-HU-A4H3",56,"'--","female","asian","Alive","882","'--",882,29.4,0,NA
+"TCGA-B7-5818",62,"'--","male","white","Alive","356","'--",356,11.87,0,NA
+"TCGA-CG-5722",67,"'--","female","not reported","Alive","30","'--",30,1,0,NA
+"TCGA-CD-5800",51,"'--","female","asian","Alive","400","'--",400,13.33,0,NA
+"TCGA-CD-5799",45,"'--","male","asian","Alive","396","'--",396,13.2,0,NA
+"TCGA-HU-A4G2",45,"'--","male","asian","Alive","739","'--",739,24.63,0,NA
+"TCGA-CG-5727",66,"'--","male","not reported","Alive","2405","'--",2405,80.17,0,NA
+"TCGA-CG-5720",71,"30","male","not reported","Dead","'--","'--",30,1,1,NA
+"TCGA-D7-6818",53,"376","male","white","Dead","376","'--",376,12.53,1,NA
+"TCGA-BR-8081",71,"'--","female","white","Alive","981","'--",981,32.7,0,NA
+"TCGA-CG-5716",86,"'--","male","not reported","Alive","0","'--",0,0,0,NA
+"TCGA-BR-8690",54,"'--","female","white","Alive","325","'--",325,10.83,0,NA
+"TCGA-BR-4279",43,"291","male","white","Dead","0","'--",291,9.7,1,NA
+"TCGA-HU-A4GF",69,"'--","male","asian","Alive","785","'--",785,26.17,0,NA
+"TCGA-BR-8588",55,"'--","female","white","Alive","389","'--",389,12.97,0,NA
+"TCGA-IN-A6RN",72,"'--","female","white","Alive","594","'--",594,19.8,0,NA
+"TCGA-BR-8360",66,"'--","male","white","Alive","188","'--",188,6.27,0,NA
+"TCGA-D7-6527",62,"312","male","white","Dead","126","'--",312,10.4,1,NA
+"TCGA-R5-A7ZE",66,"554","female","white","Dead","'--","'--",554,18.47,1,NA
+"TCGA-CD-8524",61,"'--","female","asian","Alive","388","'--",388,12.93,0,NA
+"TCGA-BR-6454",58,"'--","male","white","Alive","0","'--",0,0,0,NA
+"TCGA-BR-A4PF",72,"'--","male","white","Alive","35","'--",35,1.17,0,NA
+"TCGA-ZA-A8F6",71,"'--","male","white","Alive","525","'--",525,17.5,0,NA
+"TCGA-HF-7133",NA,"'--","female","not reported","Alive","1918","'--",1918,63.93,0,NA
+"TCGA-EQ-5647",86,"19","female","white","Dead","'--","'--",19,0.63,1,NA
+"TCGA-HU-A4G9",67,"'--","female","asian","Alive","736","'--",736,24.53,0,NA
+"TCGA-CG-5726",73,"881","male","not reported","Dead","'--","'--",881,29.37,1,NA
+"TCGA-HU-A4GC",74,"'--","male","asian","Alive","99","'--",99,3.3,0,NA
